@@ -4,7 +4,7 @@
 # Eclipse
 .project
 .classpath
-.settings/
+.settings
 
 # IntelliJ
 .idea/

@@ -1,0 +1,19 @@
+# Build output
+/target/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
